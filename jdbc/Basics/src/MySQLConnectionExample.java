@@ -1,13 +1,12 @@
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class MySQLConnectionExample {
+public class MySQLConnectionExample{
     public static void main(String[] args) {
         // Database URL, username, and password
-        String url = "jdbc:mysql://localhost:3306/my3tech";
+        String url = "jdbc:mysql://localhost:3306/customers";
         String username = "root";   // Replace with your MySQL username
         String password = "root";   // Replace with your MySQL password
 

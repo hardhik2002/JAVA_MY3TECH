@@ -4,6 +4,7 @@
         "dd"
     ],
     "java.project.referencedLibraries": [
-        "jdbc\\mysql-connector-j-9.1.0.jar"
+        "testing\\junit-4.13.2.jar",
+        "c:\\my3tech\\java_my3\\jdbc\\mysql-connector-j-9.1.0.jar"
     ]
 }
